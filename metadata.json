@@ -1,0 +1,5 @@
+{
+  "name": "WeChat Article Theme Previewer",
+  "description": "Preview WeChat official account article themes from the wechat-allauto-gzh repository.",
+  "requestFramePermissions": []
+}
